@@ -3,3 +3,9 @@ Used a digital wellbeing mobile app called Well Log. Tracked various personal li
 
 Gantt Chart for Lifestyle Habits
 ![screenshot](Images/Life%20Analysis.png)
+
+Conditional Probability Disitribution
+![screenshot](Images/ConditionalProbablityDistriution.png)
+
+Cross-correlation Matrix
+![screenshot](Images/CrossCorrelationMatrix.png)
