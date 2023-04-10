@@ -10,7 +10,7 @@ data_path = dir_path + "\ExcelFiles"
 for file in os.listdir(data_path):
     date = file.strip("WellLog_").strip(".xlsx")[:-7]
 # df = pd.read_excel(data_path + "\\" + file, engine = "openpyxl")
-df = pd.read_excel(r"C:\Users\joyco\OneDrive\Desktop\Dev\Py\Life Analysis\ExcelFiles\WellLog_2023_03_01  11_18.xlsx")
+df = pd.read_excel("\ExcelFiles\WellLog_2023_03_01  11_18.xlsx")
 
 days = []
 for key in df.keys():
