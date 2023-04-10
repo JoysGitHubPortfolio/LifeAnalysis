@@ -5,7 +5,7 @@ Gantt Chart for Lifestyle Habits
 ![screenshot](Images/Life%20Analysis.png)
 
 Conditional Probability Disitribution
-![screenshot](Images/ConditionalProbablityDistriution.png)
+![screenshot](Images/ConditionalProbabilityDistribution.png)
 
 Cross-correlation Matrix
 ![screenshot](Images/CrossCorrelationMatrix.png)
