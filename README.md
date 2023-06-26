@@ -7,9 +7,9 @@ Based on the Gantt chart and cross-correlation matrix, it was seen that 4 variab
 ![screenshot](Images/HabitsGanttChart.png)
 
 ## Cross-correlation Matrix
-![screenshot](Images/CrossCorrelationMatrix.png)
+![screenshot](Images/PlotPearson.png)
 
 ## Conditional Probability Disitribution
-![screenshot](Images/ConditionalProbabilityDistribution.png)
+![screenshot](Images/PlotCondProb.png)
 
 
