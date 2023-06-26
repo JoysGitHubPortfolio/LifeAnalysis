@@ -4,7 +4,7 @@ Used a digital wellbeing mobile app. Tracked various lifestyle features to motiv
 Based on the Gantt chart and cross-correlation matrix, it was seen that 4 variables were redundant i.e. they are constant with respect to time. Hence they could be eliminated from the dataset. This allowed for dimensionality reduction.
 
 ## Gantt Chart for Lifestyle Habits
-![screenshot](Images/Life%20Analysis.png)
+![screenshot](Images/HabitsGanttChart.png)
 
 ## Cross-correlation Matrix
 ![screenshot](Images/CrossCorrelationMatrix.png)
