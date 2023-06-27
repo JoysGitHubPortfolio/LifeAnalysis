@@ -5,14 +5,16 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ![screenshot](Images/HabitsGanttChart.png)
 
 
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
-    <img src="Images/RollingProductivity.png" alt="Image 1" style="width: 100%;">
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="Images/ProductivitySorted.png" alt="Image 2" style="width: 100%;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="Images/RollingProductivity.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/ProductivitySorted.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 ## Productivity over Time
 <img src="Images/RollingProductivity.png" alt="screenshot" width="100%" />
