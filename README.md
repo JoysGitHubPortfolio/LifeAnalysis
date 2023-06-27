@@ -5,14 +5,13 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ![screenshot](Images/HabitsGanttChart.png)
 
 ## Productivity over Time
-![screenshot](Images/RollingProductivity.png)
 <img src="Images/RollingProductivity.png" alt="screenshot" width="100%" />
 
 ## Productivity Distribution Sorted
-![screenshot](Images/ProductivitySorted.png)
+<img src="Images/ProductivitySorted.png" width="100%" />
 
 ## Productivity Frequency Distribution
-![screenshot](Images/ProductivityKDE.png)
+<img src="Images/ProductivityKDE.png" width="100%" />
 
 ## Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
