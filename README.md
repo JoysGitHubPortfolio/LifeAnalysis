@@ -28,6 +28,16 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ## Shannon-Entropy-based Feature Significance
 ![screenshot](Images/PlotMI.png)
 
-<img src="https://render.githubusercontent.com/render/math?math=
-{\displaystyle {\begin{aligned}\operatorname {I} (X;Y)&{}=\sum _{x\in {\mathcal {X}},y\in {\mathcal {Y}}}p_{(X,Y)}(x,y)\log {\frac {p_{(X,Y)}(x,y)}{p_{X}(x)p_{Y}(y)}}\\&{}=\sum _{x\in {\mathcal {X}},y\in {\mathcal {Y}}}p_{(X,Y)}(x,y)\log {\frac {p_{(X,Y)}(x,y)}{p_{X}(x)}}-\sum _{x\in {\mathcal {X}},y\in {\mathcal {Y}}}p_{(X,Y)}(x,y)\log p_{Y}(y)\\&{}=\sum _{x\in {\mathcal {X}},y\in {\mathcal {Y}}}p_{X}(x)p_{Y\mid X=x}(y)\log p_{Y\mid X=x}(y)-\sum _{x\in {\mathcal {X}},y\in {\mathcal {Y}}}p_{(X,Y)}(x,y)\log p_{Y}(y)\\&{}=\sum _{x\in {\mathcal {X}}}p_{X}(x)\left(\sum _{y\in {\mathcal {Y}}}p_{Y\mid X=x}(y)\log p_{Y\mid X=x}(y)\right)-\sum _{y\in {\mathcal {Y}}}\left(\sum _{x\in {\mathcal {X}}}p_{(X,Y)}(x,y)\right)\log p_{Y}(y)\\&{}=-\sum _{x\in {\mathcal {X}}}p_{X}(x)\mathrm {H} (Y\mid X=x)-\sum _{y\in {\mathcal {Y}}}p_{Y}(y)\log p_{Y}(y)\\&{}=-\mathrm {H} (Y\mid X)+\mathrm {H} (Y)\\&{}=\mathrm {H} (Y)-\mathrm {H} (Y\mid X).\\\end{aligned}}}">
+\[
+\begin{aligned}
+\operatorname{I}(X;Y) &= \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{(X,Y)}(x,y)\log\frac{p_{(X,Y)}(x,y)}{p_{X}(x)p_{Y}(y)} \\
+& = \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{(X,Y)}(x,y)\log\frac{p_{(X,Y)}(x,y)}{p_{X}(x)} - \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{(X,Y)}(x,y)\log p_{Y}(y) \\
+& = \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{X}(x)p_{Y|X=x}(y)\log p_{Y|X=x}(y) - \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{(X,Y)}(x,y)\log p_{Y}(y) \\
+& = \sum_{x\in\mathcal{X}}p_{X}(x)\left(\sum_{y\in\mathcal{Y}}p_{Y|X=x}(y)\log p_{Y|X=x}(y)\right) - \sum_{y\in\mathcal{Y}}\left(\sum_{x\in\mathcal{X}}p_{(X,Y)}(x,y)\right)\log p_{Y}(y) \\
+& = -\sum_{x\in\mathcal{X}}p_{X}(x)\mathrm{H}(Y|X=x) - \sum_{y\in\mathcal{Y}}p_{Y}(y)\log p_{Y}(y) \\
+& = -\mathrm{H}(Y|X) + \mathrm{H}(Y) \\
+& = \mathrm{H}(Y) - \mathrm{H}(Y|X).
+\end{aligned}
+\]
+
 
