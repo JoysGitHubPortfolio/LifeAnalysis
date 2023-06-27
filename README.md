@@ -4,6 +4,16 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ##Gantt Chart for Lifestyle Habits
 ![screenshot](Images/HabitsGanttChart.png)
 
+
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 5px;">
+    <img src="Images/RollingProductivity.png" alt="Image 1" style="width: 100%;">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <img src="Images/ProductivitySorted.png" alt="Image 2" style="width: 100%;">
+  </div>
+</div>
+
 ## Productivity over Time
 <img src="Images/RollingProductivity.png" alt="screenshot" width="100%" />
 
