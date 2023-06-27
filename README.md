@@ -28,6 +28,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ## Shannon-Entropy-based Feature Significance
 ![screenshot](Images/PlotMI.png)
 
+$$
 \[
 \begin{aligned}
 \operatorname{I}(X;Y) &= \sum_{x\in\mathcal{X},y\in\mathcal{Y}}p_{(X,Y)}(x,y)\log\frac{p_{(X,Y)}(x,y)}{p_{X}(x)p_{Y}(y)} \\
@@ -39,5 +40,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 & = \mathrm{H}(Y) - \mathrm{H}(Y|X).
 \end{aligned}
 \]
+$$
 
 
