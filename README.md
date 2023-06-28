@@ -90,7 +90,8 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-### Causal-Delta Predictions by Thresholding Dissimilarity Map
+## Causal-Delta Predictions
+### Thresholding ML-maximised Cross-correlation > 0.7
 <table>
   <tr>
     <td>
@@ -98,6 +99,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
     </td>
     <td>
       <img src="Images/BooleanMLDelta.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
+### Thresholding Dissimilarity > 0.2
+<table>
+  <tr>
+    <td>
+      <img src="Images/BooleanDiss.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/BooleanDissDelta.png" alt="Image 2" style="width: 100%;">
     </td>
   </tr>
 </table>
