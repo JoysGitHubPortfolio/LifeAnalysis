@@ -30,8 +30,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-## Productivity Frequency Distribution
-<img src="Images/ProductivityKDE.png" width="100%" />
 
 ## Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
