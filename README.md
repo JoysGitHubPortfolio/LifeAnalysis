@@ -6,6 +6,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ## Gantt Chart for Lifestyle Habits
 ![screenshot](Images/HabitsGanttChart.png)
 
+## Average 'Success-rate' Bar Charts
+<table>
+  <tr>
+    <td>
+      <img src="Images/BarMapped.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/BarMappedSorted.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 ## Daily Productivity Bar Charts 
 <table>
   <tr>
@@ -26,18 +38,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
     </td>
     <td>
       <img src="Images/ProductivityKDE.png" alt="Image 2" style="width: 100%;">
-    </td>
-  </tr>
-</table>
-
-## Average 'Success-rate' Bar Charts
-<table>
-  <tr>
-    <td>
-      <img src="Images/BarMapped.png" alt="Image 1" style="width: 100%;">
-    </td>
-    <td>
-      <img src="Images/BarMappedSorted.png" alt="Image 2" style="width: 100%;">
     </td>
   </tr>
 </table>
