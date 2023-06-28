@@ -6,7 +6,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 
 ## Method
 ### Gantt Chart for Lifestyle Habits
-![screenshot](Images/HabitsGanttChart.png)
+![screenshot](Images/GanttChart.png)
 
 ### Average 'Success-rate' Bar Chart (and sorted)
 <table>
@@ -52,7 +52,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 <table>
   <tr>
     <td>
-      <img src="Images/RollingProductivity.png" alt="Image 1" style="width: 100%;">
+      <img src="Images/ProductivityAll.png" alt="Image 1" style="width: 100%;">
     </td>
     <td>
       <img src="Images/ProductivitySorted.png" alt="Image 2" style="width: 100%;">
