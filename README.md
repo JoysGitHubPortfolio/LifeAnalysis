@@ -164,4 +164,8 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+<br></br>
+## References
+<img src="Images/MITheory.png">
+Cover, Thomas M.; Thomas, Joy A. (2005). Elements of information theory (PDF). John Wiley & Sons, Ltd. pp. 13–55. ISBN 9780471748823.
 
