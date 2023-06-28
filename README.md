@@ -42,6 +42,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+## Productivity 'Success-rate' Binned by Hours & Variables
+<table>
+  <tr>
+    <td>
+      <img src="Images/PlotCondSuccess.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotCondSuccessDiff.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 ## Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
 
