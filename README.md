@@ -1,9 +1,10 @@
 # Life in Data
 
-## Introduction
-I used a digital well-being mobile app. Tracked various lifestyle features to motivate me to improve my habits and used feature engineering through the Shannon-Entropy theory to chain habits for a more productive day. It was seen that 4 variables were redundant i.e. they are constant with respect to time. Hence they could be eliminated from the dataset. This allowed for dimensionality reduction.
+## Summary
+Used a well-being mobile app & feature engineering to chain habits for a more productive day. It was seen that 4 variables were redundant i.e. they are constant w.r.t. time. Hence they could be eliminated from the dataset, allowing for dimensionality reduction. Notably, sugar consumption was linked with socials. It is hypothesised there is a difference in mentality between a 'relaxed day' and a 'productive day' as the productivity histograms clearly show at least a bimodal distribution. Moreover, there is an 80% increase in productivity hours between the combination of (no-sugar + no-social) and (sugar + social) days.
 
-<br></br>
+Otherwise, the strongest correlation between any variables is between bedtimes: the ML algorithm successfully predicts that a 6 a.m. wake-up is preceded by an 11 p.m. bedtime the day before. A 6 a.m. wake-up has the greatest effect on the expected productivity. Hence, simply ensuring these 4 variables are achieved can boost one's output. However, a certain level of socialising is necessary for well-being. One can be mindful of their diet & exercise to offset the nonchalant approach that is taken when going out.
+
 ## Method
 ### Gantt Chart for Lifestyle Habits
 ![screenshot](Images/GanttChart.png)
