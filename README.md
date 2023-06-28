@@ -18,6 +18,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+## Daily Productivity Frequency Density Plots
+<table>
+  <tr>
+    <td>
+      <img src="Images/ProductivityHistogram.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/ProductivityKDE.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 ## Productivity Frequency Distribution
 <img src="Images/ProductivityKDE.png" width="100%" />
 
