@@ -60,7 +60,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 <table>
   <tr>
     <td>
-      <img src="Images/PlotJointProb.png" alt="Image 1" style="width: 100%;">
+      <img src="Images/PlotJointDist.png" alt="Image 1" style="width: 100%;">
     </td>
     <td>
       <img src="Images/PlotJointTheoretic.png" alt="Image 2" style="width: 100%;">
