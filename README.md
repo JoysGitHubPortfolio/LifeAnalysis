@@ -8,6 +8,8 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ### Gantt Chart for Lifestyle Habits
 ![screenshot](Images/GanttChart.png)
 
+
+## Results
 ### Average 'Success-rate' Bar Chart (and sorted)
 <table>
   <tr>
@@ -20,8 +22,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-
-## Results
 ### Average 'Success-rate' Binned by Hours
 <table>
   <tr>
@@ -42,6 +42,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
     </td>
     <td>
       <img src="Images/PlotCondExpReduced.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
+### Mutually Exclusive Truth Tests
+<table>
+  <tr>
+    <td>
+      <img src="Images/TruthFreq.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/TruthExp.png" alt="Image 2" style="width: 100%;">
     </td>
   </tr>
 </table>
