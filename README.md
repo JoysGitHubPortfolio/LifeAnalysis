@@ -31,6 +31,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+### Conditional Expectation Distributions
+<table>
+  <tr>
+    <td>
+      <img src="Images/PlotCondExp.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotCondExpReduced.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 ### Daily Productivity Bar Charts 
 <table>
   <tr>
