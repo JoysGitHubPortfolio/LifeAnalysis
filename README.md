@@ -18,7 +18,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-## Average 'Success-rate' Binned by Hours & Variables
+## Average 'Success-rate' Binned by Hours
 <table>
   <tr>
     <td>
