@@ -1,16 +1,17 @@
 # Life in Data
 
+<br></br>
 ## Introduction
 I used a digital well-being mobile app. Tracked various lifestyle features to motivate me to improve my habits and used feature engineering through the Shannon-Entropy theory to chain habits for a more productive day. It was seen that 4 variables were redundant i.e. they are constant with respect to time. Hence they could be eliminated from the dataset. This allowed for dimensionality reduction.
 
-
+<br></br>
 ## Method
 ### Gantt Chart for Lifestyle Habits
 ![screenshot](Images/GanttChart.png)
 
-
+<br></br>
 ## Results
-### Average 'Success-rate' Bar Chart (and sorted)
+### Average 'Success-rate' Bar Charts
 <table>
   <tr>
     <td>
@@ -58,7 +59,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-
+<br></br>
 ## Productivity Analysis
 ### Daily Productivity Bar Charts 
 <table>
@@ -84,7 +85,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-
+<br></br>
 ## Statistical Dependence Analysis
 ### Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
@@ -120,6 +121,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 </table>
 
 
+<br></br>
 ## Feature Significance Analysis
 ### Conditional Entropy & Information Flow
 <table>
@@ -137,6 +139,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ![screenshot](Images/PlotMI.png)
 
 
+<br></br>
 ## Causal-Delta Predictions
 ### Thresholding ML-maximised Cross-correlation > 0.7
 <table>
