@@ -56,6 +56,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 </table>
 
 ## Statistical Dependence Analysis
+### Joint Probability Distributions
+<table>
+  <tr>
+    <td>
+      <img src="Images/PlotJointProb" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotJointTheoretic" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 ### Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
 
@@ -74,8 +86,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-### ML-maximised Distribution
-![screenshot](Images/PlotMLMax.png)
 
 ### Joint-Probability-based Variable Dependence
 ![screenshot](Images/PlotFeatureDep.png)
