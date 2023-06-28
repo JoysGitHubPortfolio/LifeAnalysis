@@ -90,6 +90,18 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+### Causal-Delta Predictions by Thresholding Dissimilarity Map
+<table>
+  <tr>
+    <td>
+      <img src="Images/BooleanML.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/BooleanMLDelta.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 
 ### Mutual Information Matrix
 ![screenshot](Images/PlotMI.png)
