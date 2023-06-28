@@ -59,7 +59,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ### Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
 
-### Shannon-Entropy Dissimilarity Map for Joint Probability Disitribution
+### Shannon-Entropy Dissimilarity Map for Joint Probability Distribution
 <table>
   <tr>
     <td>
@@ -92,8 +92,5 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 
 
 ### Mutual Information Matrix
-![screenshot](Images/PlotFeatureDep.png)
-
-### Shannon-Entropy-based Feature Significance
 ![screenshot](Images/PlotMI.png)
 
