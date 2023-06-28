@@ -6,7 +6,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ## Gantt Chart for Lifestyle Habits
 ![screenshot](Images/HabitsGanttChart.png)
 
-## Average 'Success-rate' Bar Charts
+## Average 'Success-rate' Bar Chart (and sorted)
 <table>
   <tr>
     <td>
