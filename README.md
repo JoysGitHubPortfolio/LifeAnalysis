@@ -56,7 +56,10 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 </table>
 
 ## Statistical Dependence Analysis
-### Joint Probability Distributions
+### Cross-correlation Matrix
+![screenshot](Images/PlotPearson.png)
+
+### Shannon-Entropy Dissimilarity Map for Joint Probability Disitribution
 <table>
   <tr>
     <td>
@@ -71,8 +74,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-### Cross-correlation Matrix
-![screenshot](Images/PlotPearson.png)
 
 ### Dissimilarity Map between ML-maxed Cross-Correlation & Conditional Probability Distribution
 <table>
@@ -90,7 +91,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 </table>
 
 
-### Joint-Probability-based Variable Dependence
+### Mutual Information Matrix
 ![screenshot](Images/PlotFeatureDep.png)
 
 ### Shannon-Entropy-based Feature Significance
