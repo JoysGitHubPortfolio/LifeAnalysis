@@ -5,6 +5,7 @@ Used a well-being mobile app & feature engineering to chain habits for a more pr
 
 Otherwise, the strongest correlation between any variables is between bedtimes: the ML algorithm successfully predicts that a 6 a.m. wake-up is preceded by an 11 p.m. bedtime the day before. A 6 a.m. wake-up has the greatest effect on the expected productivity. Hence, simply ensuring these 4 variables are achieved can boost one's output. However, a certain level of socialising is necessary for well-being. One can be mindful of their diet, exercise & bedtimes to offset the nonchalant approach that is taken when going out.
 
+<br></br>
 ## Method
 ### Gantt Chart for Lifestyle Habits
 ![screenshot](Images/GanttChart.png)
