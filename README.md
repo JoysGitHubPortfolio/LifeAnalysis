@@ -167,6 +167,7 @@ Otherwise, the strongest correlation between any variables is between bedtimes: 
 
 <br></br>
 ## References
+### Mutual Information Derivation
 <img src="Images/MITheory.png">
 Cover, Thomas M.; Thomas, Joy A. (2005). Elements of information theory (PDF). John Wiley & Sons, Ltd. pp. 13–55. ISBN 9780471748823.
 
