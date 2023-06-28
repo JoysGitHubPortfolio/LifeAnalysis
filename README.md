@@ -59,8 +59,20 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 ### Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
 
-### Conditional Probability Distribution
-![screenshot](Images/PlotCondProb.png)
+### Dissimilarity Map between ML-maxed Cross-Correlation & Conditional Probability Distribution
+<table>
+  <tr>
+    <td>
+      <img src="Images/PlotCondProb.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotCondProbML.png" alt="Image 2" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotCondProbDissimilarity.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 ### ML-maximised Distribution
 ![screenshot](Images/PlotMLMax.png)
