@@ -3,7 +3,8 @@
 ## Introduction
 I used a digital well-being mobile app. Tracked various lifestyle features to motivate me to improve my habits and used feature engineering through the Shannon-Entropy theory to chain habits for a more productive day. It was seen that 4 variables were redundant i.e. they are constant with respect to time. Hence they could be eliminated from the dataset. This allowed for dimensionality reduction.
 
-## Productivity Analysis
+
+## Method
 ### Gantt Chart for Lifestyle Habits
 ![screenshot](Images/HabitsGanttChart.png)
 
@@ -19,6 +20,8 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+
+## Results
 ### Average 'Success-rate' Binned by Hours
 <table>
   <tr>
@@ -43,6 +46,8 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+
+## Productivity Analysis
 ### Daily Productivity Bar Charts 
 <table>
   <tr>
@@ -67,6 +72,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
+
 ## Statistical Dependence Analysis
 ### Cross-correlation Matrix
 ![screenshot](Images/PlotPearson.png)
@@ -86,7 +92,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-
 ### Dissimilarity Map between ML-maxed Cross-Correlation & Conditional Probability Distribution
 <table>
   <tr>
@@ -101,6 +106,24 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
     </td>
   </tr>
 </table>
+
+
+## Feature Significance Analysis
+### Conditional Entropy & Information Flow
+<table>
+  <tr>
+    <td>
+      <img src="Images/PlotEntropyConditional.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="Images/PlotEntropyAsymmetry.png" alt="Image 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
+### Mutual Information Matrix
+![screenshot](Images/PlotMI.png)
+
 
 ## Causal-Delta Predictions
 ### Thresholding ML-maximised Cross-correlation > 0.7
@@ -127,19 +150,4 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
   </tr>
 </table>
 
-## Feature Significance
-### Conditional Entropy & Information Flow
-<table>
-  <tr>
-    <td>
-      <img src="Images/PlotEntropyConditional.png" alt="Image 1" style="width: 100%;">
-    </td>
-    <td>
-      <img src="Images/PlotEntropyAsymmetry.png" alt="Image 2" style="width: 100%;">
-    </td>
-  </tr>
-</table>
-
-### Mutual Information Matrix
-![screenshot](Images/PlotMI.png)
 
