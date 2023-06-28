@@ -69,7 +69,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
       <img src="Images/PlotCondProbML.png" alt="Image 2" style="width: 100%;">
     </td>
     <td>
-      <img src="Images/PlotCondProbDissimilarity.png" alt="Image 2" style="width: 100%;">
+      <img src="Images/PlotCondProbDissimilarity.png" alt="Image 3" style="width: 100%;">
     </td>
   </tr>
 </table>
