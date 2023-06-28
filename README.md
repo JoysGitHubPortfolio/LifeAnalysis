@@ -1,10 +1,12 @@
-## Life Analysis
+# Life in Data
+
+## Introduction
 I used a digital well-being mobile app. Tracked various lifestyle features to motivate me to improve my habits and used feature engineering through the Shannon-Entropy theory to chain habits for a more productive day. It was seen that 4 variables were redundant i.e. they are constant with respect to time. Hence they could be eliminated from the dataset. This allowed for dimensionality reduction.
 
 ## Gantt Chart for Lifestyle Habits
 ![screenshot](Images/HabitsGanttChart.png)
 
-
+## Daily Productivity Bar Charts 
 <table>
   <tr>
     <td>
@@ -15,12 +17,6 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
     </td>
   </tr>
 </table>
-
-## Productivity over Time
-<img src="Images/RollingProductivity.png" alt="screenshot" width="100%" />
-
-## Productivity Distribution Sorted
-<img src="Images/ProductivitySorted.png" width="100%" />
 
 ## Productivity Frequency Distribution
 <img src="Images/ProductivityKDE.png" width="100%" />
