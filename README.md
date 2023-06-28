@@ -120,7 +120,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
 <table>
   <tr>
     <td>
-      <img src="Images/PlotEntropyCond.png" alt="Image 1" style="width: 100%;">
+      <img src="Images/PlotEntropyConditional.png" alt="Image 1" style="width: 100%;">
     </td>
     <td>
       <img src="Images/PlotEntropyAsymmetry.png" alt="Image 2" style="width: 100%;">
