@@ -55,7 +55,7 @@ I used a digital well-being mobile app. Tracked various lifestyle features to mo
       <img src="Images/ProductivityAll.png" alt="Image 1" style="width: 100%;">
     </td>
     <td>
-      <img src="Images/ProductivitySorted.png" alt="Image 2" style="width: 100%;">
+      <img src="Images/ProductivityAllSorted.png" alt="Image 2" style="width: 100%;">
     </td>
   </tr>
 </table>
